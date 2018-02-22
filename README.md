@@ -5,6 +5,9 @@
   <img src="https://goreportcard.com/badge/github.com/cloudetc/awsweeper" /></a>
   <a href="https://godoc.org/github.com/jckuester/weather-station">
   <img src="https://godoc.org/github.com/cloudetc/awsweeper?status.svg" /></a>
+  <a href="https://codecov.io/gh/jckuester/weather-station">
+  <img src="https://codecov.io/gh/jckuester/weather-station/branch/master/graph/badge.svg" />
+  </a>
 </p>
 
 <p>
@@ -64,7 +67,7 @@ can easily be added to the [supported protocols](pulse/protocol.go) of this proj
 
 ## Download
 
-Get the binary for your repo [here]().
+Get the binary for the Raspberry Pi (ARM) or other platforms [here](https://github.com/cloudetc/awsweeper/releases).
 
 ## Usage
 
